@@ -1,5 +1,5 @@
 ﻿  <#Author   : Dilip
-# Creation Date: 10-17-2017
+
 # Usage      : AZURE - Create ExpressRoute
 
 #**************************************************************************
